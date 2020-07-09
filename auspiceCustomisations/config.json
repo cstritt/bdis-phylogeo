@@ -1,7 +1,7 @@
 {
   "entryPage": "datasetLoader",
   "hardcodedDataPaths": {
-    "mainJSON": "auspice/bdis196.json"
+    "mainJSON": "auspice/bdis-phylogeo_bdis196.json"
   },
   "sidebarTheme": {
     "background": "#005C68",
